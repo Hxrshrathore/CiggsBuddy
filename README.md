@@ -15,7 +15,7 @@ This is a Telegram bot that helps you track your daily expenses for cigarettes a
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/HxrshRathore/telegram-expense-tracker-bot.git
+   git clone https://github.com/HxrshRathore/CiggsBuddy.git
    ```
 
 2. Install the required dependencies:
@@ -24,12 +24,12 @@ This is a Telegram bot that helps you track your daily expenses for cigarettes a
    pip install -r requirements.txt
    ```
 
-3. Obtain a Telegram bot token by creating a new bot using the BotFather bot on Telegram. Replace `'YOUR_API_TOKEN'` in the `main()` function of `expense_tracker_bot.py` with your bot token.
+3. Obtain a Telegram bot token by creating a new bot using the BotFather bot on Telegram. Replace `'YOUR_API_TOKEN'` in the `main()` function of `CiggsBuddy.py` with your bot token.
 
 4. Run the bot:
 
    ```shell
-   python expense_tracker_bot.py
+   python CiggsBuddy.py
    ```
 
 5. Start a conversation with your bot on Telegram and use the available commands to track and analyze your expenses.
